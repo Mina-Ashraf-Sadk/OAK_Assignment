@@ -21,7 +21,6 @@ Saved/
 # Ignore Visual Studio files
 .vs/
 .vscode/
-*.sln
 *.VC.db
 *.VC.opendb
 
