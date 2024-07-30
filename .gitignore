@@ -1,0 +1,34 @@
+# Ignore binary files
+Binaries/
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+
+# Ignore derived data cache
+DerivedDataCache/
+
+# Ignore Intermediate files
+Intermediate/
+
+# Ignore build files
+Build/
+
+# Ignore saved files
+Saved/
+
+# Ignore Visual Studio files
+.vs/
+.vscode/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore other IDE-specific files
+.idea/
+*.xcodeproj
+*.xcworkspace
